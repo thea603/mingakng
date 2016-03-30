@@ -1,0 +1,41 @@
+body,ol,ul,h1,h2,h3,h4,h5,h6,p,th,td,dl,dd,form,fieldset,legend,input,textarea,select{margin:0;padding:0}
+body{font:12px "宋体","Arial Narrow",HELVETICA;background:#fff;-webkit-text-size-adjust:100%}
+a{color:#172c45;text-decoration:none}
+a:hover{color:#cd0200;text-decoration:underline}
+em{font-style:normal}
+li{list-style:none}
+img{border:0;vertical-align:middle}
+table{border-collapse:collapse;border-spacing:0}
+p{word-wrap:break-word}
+
+.head{height:81px;border-bottom:1px solid #4d4d4d;background:#f2f4f3;}
+.logo_bar{float:left;padding:18px 0 18px 36px;}
+.logo_bar .logo{width:45px;height:45px;border-radius:50%;margin-right:10px;}
+.logo_bar span{font-size:24px;font-weight:700;vertical-align: middle;}
+.logo_bar .menu_button{width:20px;height:15px;vertical-align: middle;margin-left:10px;cursor: pointer;}
+
+.slide_menu{background:#1ab060;width:240px;padding:15px 0;}
+.slide_menu .slide_menu_item{height:48px;margin:12px 0;font-size:14px;cursor:pointer;color:#fff;line-height:48px;padding-left:60px;}
+.slide_menu .slide_menu_item:hover{background-color:#107740;}
+.slide_menu .slide_menu_split{height:1px; border-bottom:1px solid #fff;width:178px;margin:12px auto;}
+.slide_menu_icon{display:inline-block;width:17px;height:17px;vertical-align: middle;margin-right:18px;}
+.slide_menu_icon_treat{background:url(../image/tread.png) no-repeat;}
+
+.wrap{background-color:#eeeeee;}
+.wrap_content{height:100%;}
+
+.nav_menu{background:#fff;width:224px;padding:15px 0;}
+.nav_menu .nav_menu_item{height:48px;margin:12px 0;font-size:14px;cursor:pointer;color:#292929;line-height:48px;padding-left:60px;}
+.nav_menu .nav_menu_item:hover{background-color:#edf0f2;}
+.nav_menu .nav_menu_split{height:1px; border-bottom:1px solid #e5e5e5;width:178px;margin:12px auto;}
+.nav_menu_icon{display:inline-block;width:17px;height:17px;vertical-align: middle;margin-right:18px;}
+.nav_menu_icon_treat{background:url(../image/tread.png) no-repeat;}
+
+.treatment_center{background-color:#eeeeee;}
+.treatment_center .content{height:100%;}
+
+.easyui-tabs{margin:12px;}
+.easyui-tabs .panel-body{background-color:#eee;}
+.easyui-tabs .tabs-header{background-color:#eee;}
+
+.easyui-panel.panel-body{background-color:#fff;padding:13px 12px;}
